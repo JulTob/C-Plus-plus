@@ -17,7 +17,7 @@ int main( )
 {
     string line;
 
-    // Read the entire input at the standard input device and store in 'text'.
+    // Read the entire input at the standard input device and store in 'line'.
     while( getline( cin, line ) ) {
         reverse( line.begin( ), line.end( ) );
         cout << line << "\n";
