@@ -1,3 +1,7 @@
+/******************************************************
+Takes a string from input and reverses it at the output 
+*******************************************************/
+
 
 #include <iostream>
 #include <string>
