@@ -9,11 +9,14 @@
       directory, then look where the
       standard libraries are kept      */
 
+// using namespace std;
+
+
 //* Main Function *//
 int main() {
   
   
-  std::cout << "Hello World" << '\n';
+  std::cout << "Hello World" <<  endl;
   
   /* code */
   
